@@ -1,0 +1,19 @@
+{
+  "bindings": [
+    {
+      "name": "myTimer",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "*/5 * * * * *"
+    },
+    {
+      "type": "serviceBus",
+      "name": "outputSbMsg",
+      "topicName": "specificword",
+      "connection": "RootManage",
+      "accessRights_": "Manage",
+      "direction": "out"
+    }
+  ],
+  "disabled": true
+}

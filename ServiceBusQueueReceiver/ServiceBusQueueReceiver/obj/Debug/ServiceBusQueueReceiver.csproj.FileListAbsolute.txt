@@ -1,0 +1,8 @@
+C:\Users\dougv\Documents\Visual Studio 2015\Projects\ServiceBusQueueReceiver\ServiceBusQueueReceiver\bin\Debug\ServiceBusQueueReceiver.exe.config
+C:\Users\dougv\Documents\Visual Studio 2015\Projects\ServiceBusQueueReceiver\ServiceBusQueueReceiver\bin\Debug\ServiceBusQueueReceiver.exe
+C:\Users\dougv\Documents\Visual Studio 2015\Projects\ServiceBusQueueReceiver\ServiceBusQueueReceiver\bin\Debug\ServiceBusQueueReceiver.pdb
+C:\Users\dougv\Documents\Visual Studio 2015\Projects\ServiceBusQueueReceiver\ServiceBusQueueReceiver\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\dougv\Documents\Visual Studio 2015\Projects\ServiceBusQueueReceiver\ServiceBusQueueReceiver\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\dougv\Documents\Visual Studio 2015\Projects\ServiceBusQueueReceiver\ServiceBusQueueReceiver\obj\Debug\ServiceBusQueueReceiver.csprojResolveAssemblyReference.cache
+C:\Users\dougv\Documents\Visual Studio 2015\Projects\ServiceBusQueueReceiver\ServiceBusQueueReceiver\obj\Debug\ServiceBusQueueReceiver.exe
+C:\Users\dougv\Documents\Visual Studio 2015\Projects\ServiceBusQueueReceiver\ServiceBusQueueReceiver\obj\Debug\ServiceBusQueueReceiver.pdb

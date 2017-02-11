@@ -1,0 +1,45 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "functionName": {
+            "value": ""
+        },
+        "storageName": {
+            "value": ""
+        },
+        "hostingPlanName": {
+            "value": ""
+        },
+        "hostingEnvironment": {
+            "value": ""
+        },
+        "location": {
+            "value": "South Central US"
+        },
+        "functionSku": {
+            "value": "Standard"
+        },
+        "functionSkuCode": {
+            "value": "S1"
+        },
+        "workerSize": {
+            "value": "0"
+        },
+        "serverFarmResourceGroup": {
+            "value": ""
+        },
+        "sbName": {
+            "value": ""
+        },
+        "sbSku": {
+            "value": "2"
+        },
+        "messagingUnits": {
+            "value": "1"
+        }
+        "subscriptionId": {
+            "value": ""
+        }
+    }
+}
